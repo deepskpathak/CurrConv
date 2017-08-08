@@ -140,4 +140,3 @@ To learn more about Flow, check out [its documentation](https://flow.org/).
 ## Sharing and Deployment
 
 Create React Native App does a lot of work to make app setup and development simple and straightforward, but it's very difficult to do the same for deploying to Apple's App Store or Google's Play Store without relying on a hosted service.
-
